@@ -9,7 +9,7 @@
 
 ### General Info:
 **********************************************************************************************************************************************************
-This Website page showcases the Calculator app. It can perform all basic calculator functions.
+This Website page showcases the Calculator app. It can perform all basic calculator functions. It also has Dark and Light mode.
 
 ### Technologies:
 **********************************************************************************************************************************************************
@@ -25,6 +25,5 @@ i. Add
 ii. Subtract
 iii. Multiply
 iv. Divide
-v. Percent
 
 Thank you!
