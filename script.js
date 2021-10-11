@@ -19,9 +19,9 @@ function changeTheme() {
   let theme = document.getElementById("theme");
   if (theme.getAttribute("href") == lightTheme) {
     theme.href = darkTheme;
-    darkMode.innerHTML = "Light Mode 🌞";
+    darkMode.innerHTML = "🌞";
   } else {
     theme.href = lightTheme;
-    darkMode.innerHTML = "Dark Mode 🌙";
+    darkMode.innerHTML = "🌙";
   }
 }
